@@ -5,8 +5,6 @@
 
 // alert("hello") we are using nodejs , not browser
 
-   
-
 let name = "Deepak"
 let age = 25
 let isLoggedIn = true
@@ -21,8 +19,7 @@ let isLoggedIn = true
 // undefined
 // symbol => unique
 
-
-//object 
+// non-primitive
+//object
 
 // console.log(typeof null) object type of for see type
-
