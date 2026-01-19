@@ -27,3 +27,9 @@ let stringNumber = String(someNumber)
 
 console.log(stringNumber)
 
+// ******************Operations********************
+
+let str1 = "deepak"
+let str2 = " chauhan"
+
+console.log(str1 + str2)
